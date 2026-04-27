@@ -2,7 +2,7 @@ function HomePage() {
   return (
     <section className="page">
       <h1>Learn Gym Management</h1>
-      <p>This simple student-style system shows registration, login, membership plans, payment, and contact pages. Use the links above to move between pages.</p>
+      <p>This system shows registration, login, membership plans, payment, and contact pages. Use the links above to move between pages.</p>
     </section>
   )
 }
